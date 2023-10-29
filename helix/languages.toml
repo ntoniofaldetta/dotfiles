@@ -1,0 +1,8 @@
+[language-server.gopls]
+command = "gopls"
+config = { "ui.diagnostics.staticcheck" = true }
+
+
+[[language]]
+name = "go"
+formatter = { command = "golines" }

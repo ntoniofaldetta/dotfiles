@@ -1,0 +1,9 @@
+inherits = "rose_pine"
+
+"ui.cursor.primary" = { fg = "text", bg = "iris"}
+
+"constant.builtin" = {fg = "love", modifiers = ["italic"]}
+"keyword" = {fg = "pine", modifiers = ["italic"]}
+"operator" = {fg = "foam", modifiers = ["italic"]}
+"punctuation" = {fg = "iris"}
+"type" = {fg = "foam", modifiers = ["italic"]}
